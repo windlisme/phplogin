@@ -1,5 +1,4 @@
 <?php
-// Thông tin kết nối cơ sở dữ liệu
 $host = 'qltv-db.cpwo840s438x.us-east-1.rds.amazonaws.com';
 $db   = 'qltvdb';
 $user = 'admin';
